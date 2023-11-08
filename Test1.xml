@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<emails>  
+<email>  
+  <to>Homil </to>  
+  <from>Tirth</from>  
+  <heading>Hello</heading>  
+  <body>Hello brother, how are you?</body>  
+</email>  
+<email>  
+  <to>Harsh Vasava</to>  
+  <from>Pragnesh</from>  
+  <heading>Coading</heading>  
+  <body>please share Coad</body>  
+</email>  
+<email>  
+  <to>Mital</to>  
+  <from>Neel</from>  
+  <heading>Presentation</heading>  
+  <body>Please start Work On Project!</body>  
+</email>  
+<email>  
+  <to>Neel</to>  
+  <from>Hitesh</from>  
+  <heading>Hello</heading>  
+  <body>Hello Princy, how are you?</body>  
+</email>  
+</emails>
